@@ -9,6 +9,6 @@ This assignment was to create a portfolio using React. I incorporated an "About 
 ## Screen Shots
 
 <img src="images/portfolio1.jpg"></img>
-<img src="images/porfolio2.jpg"></img>
+<img src="images/portfolio2.jpg"></img>
 
 ## Deployed Website Link
