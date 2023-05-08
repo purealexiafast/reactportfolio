@@ -12,3 +12,5 @@ This assignment was to create a portfolio using React. I incorporated an "About 
 <img src="images/portolio2.jpg"></img>
 
 ## Deployed Website Link
+
+https://purealexiafast.github.io/reactportfolio/
