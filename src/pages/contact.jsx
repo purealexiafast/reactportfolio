@@ -1,18 +1,13 @@
+
+import ContactForm from '../components/Contact';
+
 function Contact() {
     return (
         <div>
-            <h3>Contact</h3>
-            <p>Please Contact Me at:
-            </p>
-            <ul id="contact-list">
-                <li>Phone: 778 935 3940</li>
-                <li>Email: alefsdk@gmail.com</li>
-            </ul>
-
-
-
+            <h1>Contact Me</h1>
+            <ContactForm />
         </div>
-    )
+    );
 }
 
-export default Contact
+export default Contact;

@@ -5,6 +5,10 @@
 
 }
 
+.form {
+  display: block;
+}
+
 #footer {
   display: flex;
   justify-content: center;
