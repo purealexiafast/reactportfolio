@@ -5,8 +5,20 @@
 
 }
 
+#buttonsubmit:hover {
+  border-color: aliceblue;
+  cursor: pointer;
+
+}
+
+#formsubmit:hover {
+  color: aliceblue;
+  cursor: pointer;
+}
+
 .form {
   display: block;
+  padding: 10px;
 }
 
 #footer {

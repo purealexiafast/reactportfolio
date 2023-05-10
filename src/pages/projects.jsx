@@ -1,14 +1,19 @@
+import pdf from '../assets/pdf.pdf'
+
 function Projects() {
     return (
         <div>
             <h3>Resume</h3>
-            <p id="projects">I have been working on various projects. One of which utilizes React to create a portfolio. Other projects include:
+            <p id="projects">I have recently completed a certificate in full stack develoment from Carleton University. My top skills include:
             </p>
             <ul id="list">
-                <li>Social Media App</li>
-                <li>E-Commerce Website</li>
-                <li>Team Profile Generator</li>
+                <li>HTML, CSS</li>
+                <li>REACT</li>
+                <li>UI, UX</li>
             </ul>
+
+            <p>Please view my resume here:</p>
+            <a href={pdf} target="_blank">Download Resume</a>
 
 
         </div>

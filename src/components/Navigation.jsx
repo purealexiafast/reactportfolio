@@ -8,10 +8,10 @@ function Navigation(props) {
         <div>
             <h2>{props.title}</h2>
             <div>
-                <Link to="/"><button onClick={() => props.setPage("Home")}>About Me</button></Link>
-                <Link to="/portfolio"><button onClick={() => props.setPage("Portfolio")}>Portfolio</button></Link>
-                <Link to="/projects"><button>Resume</button></Link>
-                <Link to="/contact"><button onClick={() => props.setPage("Contact")}>Contact</button></Link>
+                <Link id="buttonsubmit" to="/"><button onClick={() => props.setPage("Home")}>About Me</button></Link>
+                <Link id="buttonsubmit" to="/portfolio"><button onClick={() => props.setPage("Portfolio")}>Portfolio</button></Link>
+                <Link id="buttonsubmit" to="/projects"><button>Resume</button></Link>
+                <Link id="buttonsubmit" to="/contact"><button onClick={() => props.setPage("Contact")}>Contact</button></Link>
             </div>
         </div>
     )

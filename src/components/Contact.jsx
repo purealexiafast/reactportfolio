@@ -21,7 +21,7 @@ function ContactForm(props) {
                     <textarea id="message" name="message" />
                 </div>
                 <div class="form">
-                    <button type="submit">Submit</button>
+                    <button id="formsubmit" type="submit">Submit</button>
                 </div>
             </form>
         </div>
