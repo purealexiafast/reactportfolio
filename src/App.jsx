@@ -15,8 +15,8 @@ function App() {
   return (
     <>
       <Router>
-        <Header header="Welcome. Please Review My Portfolio." />
-        <Navigation title="Alexia Fast Portfolio" />
+
+        <Navigation title="Alexia Fast" />
 
 
         <Routes>

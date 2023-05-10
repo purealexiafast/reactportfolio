@@ -1,7 +1,7 @@
 function Projects() {
     return (
         <div>
-            <h3>Projects</h3>
+            <h3>Resume</h3>
             <p id="projects">I have been working on various projects. One of which utilizes React to create a portfolio. Other projects include:
             </p>
             <ul id="list">
@@ -9,6 +9,8 @@ function Projects() {
                 <li>E-Commerce Website</li>
                 <li>Team Profile Generator</li>
             </ul>
+
+
         </div>
     )
 }

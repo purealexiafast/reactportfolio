@@ -1,6 +1,22 @@
-#about-me {
-  width: 500px;
+#workhistory {
 
+  text-align: center;
+
+
+}
+
+#footer {
+  display: flex;
+  justify-content: center;
+
+}
+
+#about-me {
+  max-width: 500px;
+}
+
+#profileimg {
+  max-width: 200px;
 }
 
 body {
@@ -19,13 +35,35 @@ body {
   text-align: left;
 }
 
+.links {
+  display: flex;
+
+}
+
+a {
+  margin: 10px;
+
+}
+
+h4 {
+  color: rgb(38, 107, 141);
+}
+
+h4:hover {
+  color: aliceblue;
+  cursor: pointer;
+}
+
 .images {
   max-width: 500px;
   display: block;
   margin: 30px;
 }
 
-
+#headerimg {
+  width: 1000px;
+  height: 50px;
+}
 
 #root {
   max-width: 1280px;

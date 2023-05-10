@@ -9,6 +9,8 @@ function Contact() {
                 <li>Email: alefsdk@gmail.com</li>
             </ul>
 
+
+
         </div>
     )
 }
