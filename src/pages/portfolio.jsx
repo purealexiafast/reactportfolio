@@ -15,25 +15,25 @@ function Portfolio() {
             <p>Please see various projects below.</p>
 
             <h4>Horiseon Website</h4>
-            {<img class="images" src="/images/horiseon.jpg"></img>}
+            {<img class="images" src="images/horiseon.jpg"></img>}
             <div class="links">
                 <a href="https://github.com/purealexiafast/horiseon-corporation-website"><h4>GitHub</h4></a><a href="https://purealexiafast.github.io/horiseon-corporation-website/"><h4>Deployed</h4></a>
             </div>
 
             <h4></h4>
-            {<img class="images" src="/images/portfolio.jpg"></img>}
+            {<img class="images" src="images/portfolio.jpg"></img>}
             <div class="links">
                 <a href="https://github.com/purealexiafast/alexia-fast-portfolio-project-website"><h4>GitHub</h4></a><a href="https://purealexiafast.github.io/alexia-fast-portfolio/"><h4>Deployed</h4></a>
             </div>
 
             <h4></h4>
-            {<img class="images" src="/images/password.jpg"></img>}
+            {<img class="images" src="images/password.jpg"></img>}
             <div class="links">
                 <a href="https://github.com/purealexiafast/javascript-password-generator"><h4>GitHub</h4></a><a href="https://purealexiafast.github.io/javascript-project/"><h4>Deployed</h4></a>
             </div>
 
             <h4></h4>
-            {<img class="images" src="/images/quiz.jpg"></img>}
+            {<img class="images" src="images/quiz.jpg"></img>}
             <div class="links">
                 <a href="https://github.com/purealexiafast/timed-quiz-javascript"><h4>GitHub</h4></a><a href="https://purealexiafast.github.io/timed-quiz-javascript/"><h4>Deployed</h4></a>
             </div>
