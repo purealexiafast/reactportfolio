@@ -45,7 +45,7 @@ function Portfolio() {
             </div>
 
             <h4></h4>
-            {<img class="images" src="weather.jpg"></img>}
+            {<img class="images" src="images/weather.jpg"></img>}
             <div class="links">
                 <a href="https://github.com/purealexiafast/weather-dash"><h4>GitHub</h4></a><a href="https://purealexiafast.github.io/weather-dash/"><h4>Deployed</h4></a>
             </div>
