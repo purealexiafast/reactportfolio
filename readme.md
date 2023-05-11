@@ -8,8 +8,8 @@ This assignment was to create a portfolio using React. I incorporated an "About 
 
 ## Screen Shots
 
-<img src="public/images/portfolio1.jpg"></img>
-<img src="public/images/portolio2.jpg"></img>
+<img src="portfolio1.jpg"></img>
+<img src="portolio2.jpg"></img>
 
 ## Deployed Website Link
 
