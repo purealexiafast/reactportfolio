@@ -15,37 +15,37 @@ function Portfolio() {
             <p>Please see various projects below.</p>
 
             <h4>Horiseon Website</h4>
-            {<img class="images" src="/horiseon.JPG"></img>}
+            {<img class="images" src="./horiseon.JPG"></img>}
             <div class="links">
                 <a href="https://github.com/purealexiafast/horiseon-corporation-website"><h4>GitHub</h4></a><a href="https://purealexiafast.github.io/horiseon-corporation-website/"><h4>Deployed</h4></a>
             </div>
 
             <h4></h4>
-            {<img class="images" src="/portfolio.JPG"></img>}
+            {<img class="images" src="./portfolio.JPG"></img>}
             <div class="links">
                 <a href="https://github.com/purealexiafast/alexia-fast-portfolio-project-website"><h4>GitHub</h4></a><a href="https://purealexiafast.github.io/alexia-fast-portfolio/"><h4>Deployed</h4></a>
             </div>
 
             <h4></h4>
-            {<img class="images" src="/password.JPG"></img>}
+            {<img class="images" src="./password.JPG"></img>}
             <div class="links">
                 <a href="https://github.com/purealexiafast/javascript-password-generator"><h4>GitHub</h4></a><a href="https://purealexiafast.github.io/javascript-project/"><h4>Deployed</h4></a>
             </div>
 
             <h4></h4>
-            {<img class="images" src="/quiz.JPG"></img>}
+            {<img class="images" src="./quiz.JPG"></img>}
             <div class="links">
                 <a href="https://github.com/purealexiafast/timed-quiz-javascript"><h4>GitHub</h4></a><a href="https://purealexiafast.github.io/timed-quiz-javascript/"><h4>Deployed</h4></a>
             </div>
 
             <h4></h4>
-            {<img class="images" src="/calendar.JPG"></img>}
+            {<img class="images" src="./calendar.JPG"></img>}
             <div class="links">
                 <a href="https://github.com/purealexiafast/javascript-calender"><h4>GitHub</h4></a><a href="https://purealexiafast.github.io/javascript-calender/"><h4>Deployed</h4></a>
             </div>
 
             <h4></h4>
-            {<img class="images" src="/weather.JPG"></img>}
+            {<img class="images" src="./weather.JPG"></img>}
             <div class="links">
                 <a href="https://github.com/purealexiafast/weather-dash"><h4>GitHub</h4></a><a href="https://purealexiafast.github.io/weather-dash/"><h4>Deployed</h4></a>
             </div>
